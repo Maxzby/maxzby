@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.zbyfwq.xyz/post/bbbce974.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.zbyfwq.xyz/post/16107.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.zbyfwq.xyz/categories/index.html</loc>
     
     <lastmod>2020-08-25</lastmod>
@@ -23,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://www.zbyfwq.xyz/post/16107.html</loc>
-    
-    <lastmod>2020-08-25</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.zbyfwq.xyz/404.html</loc>
     
     <lastmod>2020-08-25</lastmod>
@@ -44,6 +51,48 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://www.zbyfwq.xyz/tags/GitHub/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zbyfwq.xyz/tags/Gitee/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zbyfwq.xyz/tags/Pages/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zbyfwq.xyz/tags/Hello/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zbyfwq.xyz/tags/World/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zbyfwq.xyz/tags/test/</loc>
+    <lastmod>2020-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
